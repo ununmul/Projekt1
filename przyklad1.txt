@@ -1,3 +1,4 @@
+test z nowego zadania
 to jest nowa linia
 aaa
 to jest test z repozytorium
