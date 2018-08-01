@@ -1,2 +1,3 @@
+test z nowego zadania
 to jest nowa linia
 aaa
